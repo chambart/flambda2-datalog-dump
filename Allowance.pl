@@ -1,0 +1,137 @@
+use(v7221142905, v7221142905).
+alias(v51837049246857976, v51837050189519472).
+use(v3270415684, v51837049402616576).
+propagate(v357523777, v51837049402616576, v51837055593008376).
+alias(v2023054169, v51837049357347400).
+alias(v1358730241, v51837053436456488).
+alias(v51837050124818776, v51837053347412464).
+alias(v51837053269409480, v51837047686898520).
+alias(v51837050335964056, v51837049573776448).
+alias_if_def(v357523777, v51837053166868544, v51837052411976072).
+constructor(v1051077937, v1051077937, function_slot_fslot1).
+constructor(v51837048205358368, v1051077937, code).
+constructor(v51837049474779032, v1051077937, apply_Normal_Indirect_code_pointer_0).
+constructor(v51837049474779032, v1051077937, apply_Normal_Direct_code_pointer_0).
+constructor(v51837055406662304, v1051077937, apply_Exn_Indirect_code_pointer).
+constructor(v51837055406662304, v1051077937, apply_Exn_Direct_code_pointer).
+alias(v51837055593008376, v51837056422044920).
+alias(v51837047513949728, v51837054084579672).
+alias_if_def(v357523777, v51837053269409480, v51837049140268152).
+use(v4567500796, v51837048205358368).
+propagate(v357523777, v51837048205358368, v51837055932143512).
+alias_if_def(v357523777, v51837054266421496, v51837056485776032).
+alias(v51837049357347400, v51837052547272720).
+alias(v51837047686898520, v51837051047003296).
+use(v357523777, v357523777).
+constructor(v1051077937, v2439107265, block_3).
+constructor(v2023054169, v2439107265, block_2).
+constructor(v2691227177, v2439107265, block_0).
+constructor(v8178593777, v2439107265, block_1).
+alias(v51837050189519472, v51837049474779032).
+constructor(v2023054169, v2023054169, function_slot_fslot2).
+constructor(v51837048880258240, v2023054169, apply_Normal_Indirect_code_pointer_0).
+constructor(v51837048880258240, v2023054169, apply_Normal_Direct_code_pointer_0).
+constructor(v51837049140268152, v2023054169, code).
+constructor(v51837050507494936, v2023054169, apply_Exn_Indirect_code_pointer).
+constructor(v51837050507494936, v2023054169, apply_Exn_Direct_code_pointer).
+alias(v51837051379360376, v51837050932295856).
+alias_if_def(v357523777, v51837055593008376, v51837049402616576).
+constructor(v1358730241, v1358730241, function_slot_fslot3).
+constructor(v51837048336761232, v1358730241, apply_Exn_Indirect_code_pointer).
+constructor(v51837048336761232, v1358730241, apply_Exn_Direct_code_pointer).
+constructor(v51837049266629464, v1358730241, apply_Normal_Indirect_code_pointer_0).
+constructor(v51837049266629464, v1358730241, apply_Normal_Direct_code_pointer_0).
+constructor(v51837056485776032, v1358730241, code).
+use(v6371430868, v51837052411976072).
+propagate(v357523777, v51837052411976072, v51837053166868544).
+alias(v2691227177, v51837054433197536).
+constructor(v2691227177, v2691227177, function_slot_fslot4).
+constructor(v51837049402616576, v2691227177, code).
+constructor(v51837050533928600, v2691227177, apply_Exn_Indirect_code_pointer).
+constructor(v51837050533928600, v2691227177, apply_Exn_Direct_code_pointer).
+constructor(v51837054084579672, v2691227177, apply_Normal_Indirect_code_pointer_0).
+constructor(v51837054084579672, v2691227177, apply_Normal_Direct_code_pointer_0).
+alias(v51837054433197536, v51837051079592544).
+constructor(v1358730241, v6332176041, block_0).
+alias(v51837053436456488, v51837051249624784).
+alias(v51837056422044920, v51837047513949728).
+alias(v51837051047003296, v51837048880258240).
+alias(v51837053166868544, v51837048855256512).
+use(v7324359092, v51837056485776032).
+propagate(v357523777, v51837056485776032, v51837054266421496).
+alias(v8178593777, v51837051379360376).
+alias(v1051077937, v51837050124818776).
+alias(v51837048855256512, v51837050335964056).
+constructor(v8178593777, v8178593777, function_slot_fslot5).
+constructor(v51837048018441960, v8178593777, apply_Exn_Indirect_code_pointer).
+constructor(v51837048018441960, v8178593777, apply_Exn_Direct_code_pointer).
+constructor(v51837049573776448, v8178593777, apply_Normal_Indirect_code_pointer_0).
+constructor(v51837049573776448, v8178593777, apply_Normal_Direct_code_pointer_0).
+constructor(v51837052411976072, v8178593777, code).
+alias_if_def(v357523777, v51837055932143512, v51837048205358368).
+alias(v2439107265, v51837049266629464).
+alias(v6332176041, v51837051302896088).
+use(v813818676, v51837049140268152).
+propagate(v357523777, v51837049140268152, v51837053269409480).
+alias(v51837054266421496, v51837054991633376).
+alias(v51837055932143512, v51837049246857976).
+used(v51837050026136416).
+used(v51837051302896088).
+
+% (var function_return_0_disallow_right_1/97N) v51837054084579672
+% (var my_closure/132N) v51837050124818776
+% (var dummy_toplevel_exn/96N) v51837050026136416
+% (var Pobj_magic/118N) v51837050335964056
+% (var function_param_0/122N) v51837053269409480
+% (var witness_for_allow_left_4/134N) v51837048205358368
+% (code_id camlAllowance__disallow_right_1_1_code) v3270415684
+% (var my_closure/99N) v51837054433197536
+% (symbol Allowance.camlAllowance__disallow_right_6) v2691227177
+% (var function_param_0/144N) v51837054266421496
+% (var my_closure/127N) v51837052547272720
+% (symbol Allowance.camlAllowance__all_constants) v7221142905
+% (var function_exn/109N) v51837048018441960
+% (var Pobj_magic/140N) v51837050189519472
+% (symbol Allowance.camlAllowance__disallow_left_7) v8178593777
+% (var Pobj_magic/129N) v51837051047003296
+% (var witness_for_disallow_right_1/101N) v51837049402616576
+% (var my_closure/105N) v51837051079592544
+% (var function_exn/131N) v51837055406662304
+% (var my_closure/121N) v51837049357347400
+% (symbol Allowance.camlAllowance) v6332176041
+% (var my_closure/143N) v51837053436456488
+% (symbol Allowance.camlAllowance__le_monde_extérieur) v357523777
+% (var my_closure/149N) v51837051249624784
+% (var function_param_0/133N) v51837055932143512
+% (code_id camlAllowance__allow_left_4_4_code) v4567500796
+% (var my_closure/138N) v51837053347412464
+% (code_id camlAllowance__Magic_allow_disallow_0_5_code) v7324359092
+% (var function_return_0_Magic_allow_disallow_0/141N) v51837049266629464
+% (var Pobj_magic/107N) v51837047513949728
+% (var prim/128UV) v51837047686898520
+% (var function_exn/120N) v51837050507494936
+% (symbol Allowance.camlAllowance__Pmakeblock92) v2439107265
+% (var function_return_0_disallow_left_2/108N) v51837049573776448
+% (var function_return_0_allow_left_4/130N) v51837049474779032
+% (var dummy_toplevel_return/95N) v51837051302896088
+% (var witness_for_allow_right_3/123N) v51837049140268152
+% (var function_param_0/111N) v51837053166868544
+% (symbol Allowance.camlAllowance__allow_right_8) v2023054169
+% (var function_exn/98N) v51837050533928600
+% (var prim/117UV) v51837048855256512
+% (var function_exn/142N) v51837048336761232
+% (var function_return_0_allow_right_3/119N) v51837048880258240
+% (var X/150UV) v51837054991633376
+% (var my_closure/116N) v51837050932295856
+% (code_id camlAllowance__disallow_left_2_2_code) v6371430868
+% (var witness_for_Magic_allow_disallow_0/145N) v51837056485776032
+% (symbol Allowance.camlAllowance__allow_left_9) v1051077937
+% (var prim/139UV) v51837049246857976
+% (var prim/106UV) v51837056422044920
+% (var function_param_0/100N) v51837055593008376
+% (code_id camlAllowance__allow_right_3_3_code) v813818676
+% (symbol Allowance.camlAllowance__Magic_allow_disallow_5) v1358730241
+% (var my_closure/110N) v51837051379360376
+% (var witness_for_disallow_left_2/112N) v51837052411976072
+
+% TIME: 0.001633
